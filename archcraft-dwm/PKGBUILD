@@ -9,7 +9,7 @@ arch=('any')
 license=('GPL3')
 options=(zipman)
 depends=('libx11' 'libxinerama' 'libxft' 'freetype2' 
-		'st' 'hsetroot'
+		'archcraft-st' 'hsetroot'
 		'alacritty' 'thunar' 'geany'
 		'rofi' 'polybar' 'dunst'
 		'maim' 'xclip' 'viewnior' 'feh'

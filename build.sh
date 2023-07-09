@@ -35,4 +35,4 @@ build_pkg () {
 
 # Execute
 build_pkg archcraft-dwm
-#build_pkg archcraft-st
+build_pkg archcraft-st
